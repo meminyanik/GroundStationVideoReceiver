@@ -1,0 +1,18 @@
+E:\Visual Studio Projects\2015\DroneVideoReceiver\DroneVideoReceiver\bin\Debug\DroneVideoReceiver.exe.config
+E:\Visual Studio Projects\2015\DroneVideoReceiver\DroneVideoReceiver\bin\Debug\DroneVideoReceiver.exe
+E:\Visual Studio Projects\2015\DroneVideoReceiver\DroneVideoReceiver\bin\Debug\DroneVideoReceiver.pdb
+E:\Visual Studio Projects\2015\DroneVideoReceiver\DroneVideoReceiver\obj\Debug\DroneVideoReceiver.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\2015\DroneVideoReceiver\DroneVideoReceiver\obj\Debug\DroneVideoReceiver.VideoReceiverForm.resources
+E:\Visual Studio Projects\2015\DroneVideoReceiver\DroneVideoReceiver\obj\Debug\DroneVideoReceiver.Properties.Resources.resources
+E:\Visual Studio Projects\2015\DroneVideoReceiver\DroneVideoReceiver\obj\Debug\DroneVideoReceiver.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\2015\DroneVideoReceiver\DroneVideoReceiver\obj\Debug\DroneVideoReceiver.exe
+E:\Visual Studio Projects\2015\DroneVideoReceiver\DroneVideoReceiver\obj\Debug\DroneVideoReceiver.pdb
+D:\SIDUS\MyanikOGucluGroundStation\DroneVideoReceiver\DroneVideoReceiver\bin\Debug\DroneVideoReceiver.exe.config
+D:\SIDUS\MyanikOGucluGroundStation\DroneVideoReceiver\DroneVideoReceiver\obj\Debug\DroneVideoReceiver.exe
+D:\SIDUS\MyanikOGucluGroundStation\DroneVideoReceiver\DroneVideoReceiver\obj\Debug\DroneVideoReceiver.pdb
+D:\SIDUS\MyanikOGucluGroundStation\DroneVideoReceiver\DroneVideoReceiver\bin\Debug\DroneVideoReceiver.exe
+D:\SIDUS\MyanikOGucluGroundStation\DroneVideoReceiver\DroneVideoReceiver\bin\Debug\DroneVideoReceiver.pdb
+D:\SIDUS\MyanikOGucluGroundStation\DroneVideoReceiver\DroneVideoReceiver\obj\Debug\DroneVideoReceiver.csprojResolveAssemblyReference.cache
+D:\SIDUS\MyanikOGucluGroundStation\DroneVideoReceiver\DroneVideoReceiver\obj\Debug\DroneVideoReceiver.VideoReceiverForm.resources
+D:\SIDUS\MyanikOGucluGroundStation\DroneVideoReceiver\DroneVideoReceiver\obj\Debug\DroneVideoReceiver.Properties.Resources.resources
+D:\SIDUS\MyanikOGucluGroundStation\DroneVideoReceiver\DroneVideoReceiver\obj\Debug\DroneVideoReceiver.csproj.GenerateResource.Cache
